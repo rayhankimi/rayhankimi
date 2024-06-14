@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats-rayhankimis-projects.vercel.app/api?username=rayhankimi)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="RayhanK" src="https://github-readme-stats-rayhankimis-projects.vercel.app/api?username=rayhankimi&show_icons=true&hide_border=true" />
 
 
