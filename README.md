@@ -1,5 +1,4 @@
 ## Hi there 👋
 
-<img align="left" alt="RayhanK" src="https://github-readme-stats-rayhankimis-projects.vercel.app/api?username=rayhankimi&show_icons=true&hide_border=true" />
-
+    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rayhankimi&theme=react&line_height=40&hide=css"/> </a>
 
