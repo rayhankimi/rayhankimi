@@ -1,5 +1,5 @@
 <h1 align="center"> Rayhan K N.A</h1>
-<h3 align="center">Learning python ...</h3>
+<h3 align="left"> My main language is python and i currently learning Django Framework and Tensorflow </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhankimi&label=Profile%20views&color=0e75b6&style=flat" alt="rayhankimi" /> </p>
 
