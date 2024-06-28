@@ -1,4 +1,4 @@
-<h1 align="right">Hello, I'm Rayhan</h1>
+<h1 align="left">Hello, I'm Rayhan</h1>
 <h3 align="left">Electronics Engineer Students On Late Year</h3>
 <h4 align="left">Recently learning how to code for IoT purpose, Familiar with Arduino & ESP32 Board and working my way into Raspberry Pi Boards for real-life ML projects.</h4>
 
