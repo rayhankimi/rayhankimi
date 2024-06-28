@@ -1,5 +1,6 @@
-<h1 align="center">Hello, I'm Rayhan</h1>
-<h3 align="center">Electronics Engineer Students On Late Year</h3>
+<h1 align="right">Hello, I'm Rayhan</h1>
+<h3 align="left">Electronics Engineer Students On Late Year</h3>
+<h3 align="left">Recently learning how to code for IoT purpose</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhankimi&label=Profile%20views&color=0e75b6&style=flat" alt="rayhankimi" /> </p>
 
