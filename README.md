@@ -1,12 +1,12 @@
 <h1 align="right">Hello, I'm Rayhan</h1>
 <h3 align="left">Electronics Engineer Students On Late Year</h3>
-<h4 align="left">Recently learning how to code for IoT purpose, Familiar with Arduino & ESP32 Board and working my way into Raspberry Pi Boards</h4>
+<h4 align="left">Recently learning how to code for IoT purpose, Familiar with Arduino & ESP32 Board and working my way into Raspberry Pi Boards for real-life ML projects.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhankimi&label=Profile%20views&color=0e75b6&style=flat" alt="rayhankimi" /> </p>
 
-- 🌱 I’m currently learning **Django & Tensorflow**
+- 🌱 Currently Learning :  **Django & Tensorflow**
 
-- 📫 How to reach me **r4yhankimi@gmail.com**
+- 📫 Email me?  **r4yhankimi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
