@@ -1,6 +1,6 @@
 <h1 align="left">Hello, I'm Rayhan</h1>
 <h3 align="left">Late year electronics engineer student</h3>
-<h4 align="left">I use python to build APIs using django, machine learning purposes, and writing in micropython</h4>
+<h4 align="left">I mostly write in python to build APIs using django, machine learning purposes, and writing in micropython</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhankimi&label=Profile%20views&color=0e75b6&style=flat" alt="rayhankimi" /> </p>
