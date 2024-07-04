@@ -1,6 +1,7 @@
 <h1 align="left">Hello, I'm Rayhan</h1>
-<h3 align="left">Electronics Engineer Students On Late Year</h3>
-<h4 align="left">Recently learning how to code for IoT purpose, Familiar with Arduino & ESP32 Board and working my way into Raspberry Pi Boards for real-life ML projects.</h4>
+<h3 align="left">Late year electronics engineer student</h3>
+<h4 align="left">I use python to build APIs using django, machine learning purposes, and writing in micropython</h4>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhankimi&label=Profile%20views&color=0e75b6&style=flat" alt="rayhankimi" /> </p>
 
