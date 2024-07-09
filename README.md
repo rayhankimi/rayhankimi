@@ -1,6 +1,5 @@
 <h1 align="left">Hello, I'm Rayhan</h1>
-<h3 align="left">Late year electronics engineer student</h3>
-<h4 align="left">I mostly write in python </h4>
+<h3 align="left">Late year electronics engineer student. I mostly write in Python</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhankimi&label=Profile%20views&color=0e75b6&style=flat" alt="rayhankimi" /> </p>
