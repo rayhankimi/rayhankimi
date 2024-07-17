@@ -1,4 +1,6 @@
 # 💫 About Me:
+Most of my projects are using ESP32 with Python. 
+
 🔭 I’m currently working on Micropython<br>👯 I’m looking to collaborate on Micropython<br>🤝 I’m looking for help with Micropython<br>🌱 I’m currently learning Django & Tensorflow<br>
 
 
