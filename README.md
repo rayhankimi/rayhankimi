@@ -1,11 +1,5 @@
 # 💫 About Me:
-I mostly code rather than tinkering with hardware.
 
-Most of my projects are using ESP32 with Python although i also familiar with other development boards.
-
-I also learned using tensorflow and django to support my hardware projects
-
-🔭 I’m currently working on Micropython<br>👯 I’m looking to collaborate on Micropython<br>🤝 I’m looking for help with Micropython<br>🌱 I’m currently learning Django & Tensorflow<br>
 
 
 # 💻 Tech Stack:
