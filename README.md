@@ -1,5 +1,7 @@
 # 💫 About Me:
+I usually code in Python for every type of problems i worked into if possible. Beside, i know little about TypeScript, HTML/CSS, and C++
 
+I also aimed to master C/C++/Rust by the end of 2025
 
 
 # 💻 Tech Stack:
