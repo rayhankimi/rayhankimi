@@ -1,5 +1,5 @@
 # 💫 About Me:
-I usually code in Python for every type of problems i worked into if possible. Beside, i know little about TypeScript & HTML/CSS
+-
 
 
 # 💻 Tech Stack:
