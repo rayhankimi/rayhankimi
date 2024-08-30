@@ -1,5 +1,7 @@
 # 💫 About Me:
-Nothing to show here ...
+I have keen interest in IoT server-side development and computer vision using PyTorch. 
+
+Currently learning : C++ for microcontrollers, C for ESP-IDF Framework, Frontend Development.
 
 <hr/>
 
