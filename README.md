@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/KVq7WxhhrUgAAAAM/electro-boom.gif"  />
+
 
 ###
 
@@ -37,7 +37,5 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/rayhankimi/rayhankimi/output/snake.svg" alt="Snake animation" />
 
 ###
