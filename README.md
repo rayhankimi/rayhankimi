@@ -1,12 +1,43 @@
+<h2 align="left">Hello There!</h2>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhankimi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhankimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-# 📊 Stats :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhankimi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=rayhankimi&icon=0&color=0)](https://visitcount.itsvg.in)
+<img align="right" height="150" src="https://media.tenor.com/KVq7WxhhrUgAAAAM/electro-boom.gif"  />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="30" alt="raspberrypi logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/rayhankimi/rayhankimi/output/snake.svg" alt="Snake animation" />
+
+###
