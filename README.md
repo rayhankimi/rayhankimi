@@ -1,5 +1,5 @@
 <h2 align="left">Hello There!</h2>
 
 
-![rayhankimi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhankimi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=html)
+![rayhankimi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhankimi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=html,css)
 
