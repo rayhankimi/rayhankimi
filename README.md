@@ -1,1 +1,1 @@
-[![My language stats](https://github-readme-stats.vercel.app/api?username=rayhankimi)](https://github.com/anuraghazra/github-readme-stats)
+![rayhankimi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhankimi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
